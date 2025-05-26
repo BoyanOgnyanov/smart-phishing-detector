@@ -31,7 +31,7 @@ The proxy modifies traffic on the fly and blocks pages based on a consensus betw
 - Google Safe Browsing API key --> https://developers.google.com/safe-browsing/v4/get-started#3.-set-up-an-api-key
 - OpenAI API key --> https://platform.openai.com/api-keys
 
-##Limitations
+## Limitations
 
 - API rate limits apply (especially for free-tier keys)
 - Heavy resource calls (e.g. Google or YouTube pages) may result in false positives due to multiple domains/scripts
