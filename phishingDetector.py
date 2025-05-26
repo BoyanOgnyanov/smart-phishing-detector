@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 
 # 🔑 API-Keys
 OPENAI_API_KEY = "<YOUR-API-KEY>"
-VIRUSTOTAL_API_KEY = "YOUR-API-KEY"
-GOOGLE_API_KEY = "YOUR-API-KEY"
+VIRUSTOTAL_API_KEY = "<YOUR-API-KEY>"
+GOOGLE_API_KEY = "<YOUR-API-KEY>"
 
 # Scoring weight per engine (Scale 1–3)
 RELIABILITY_WEIGHTS = {
