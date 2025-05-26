@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# mitmproxy
+~/.mitmproxy/
+
+# dotenv für API-Keys
+.env
+.env.*
+
+# VS Code / IDEs / Editor settings
+.vscode/
+.idea/
