@@ -46,7 +46,7 @@ The proxy modifies traffic on the fly and blocks pages based on a consensus betw
    ```
    OR
    ```bash
-   wget https://github.com/BoyanOgnyanov/smart-phishing-detector/phishingDetector.py
+   wget [https://github.com/BoyanOgnyanov/smart-phishing-detector/phishingDetector.py](https://github.com/BoyanOgnyanov/smart-phishing-detector/blob/main/phishingDetector.py)
    ```
 
 3. **Install the required dependencies**  
